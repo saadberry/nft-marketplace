@@ -2,7 +2,7 @@
 
 NFT Marketplace that allows users to purchase tokens using USDT/MATIC.
 
-**As of 08/07/23:**
+**As of 8th July, 2023:**
   * Added Metamask integratipn.
   * Uploaded NFTs to IPFS.
   * Added IPFS link so users can view NFTS from a secure source.
